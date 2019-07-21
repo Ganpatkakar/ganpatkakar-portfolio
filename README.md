@@ -1,3 +1,3 @@
 # portfolio-ganpatkakar
 
-link https://ganpatkakar.github.io/portfolio-ganpatkakar/index.html
+link https://ganpatkakar.github.io/ganpatkakar-portfolio/
